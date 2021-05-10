@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on everthing i can!
 
-- 📫 How to reach me:
+- 📫 How to reach me
 *E-mail: pedrom.barboza01@gmail.com
 *Instagram: @pedro.m.barboza
 *Facebook: Pedro Barboza
