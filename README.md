@@ -2,7 +2,7 @@
 ## Desenvolvedor web Fullstack em formação
 
 - 👀 I’m interested in web developing and mobile developing;
-- 🌱 I’m currently learning Javascript and Node.js
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on everthing i can.
 
 - 📫 How to reach me: E-mail: pedrom.barboza01@gmail.com | Instagram: @pedro.m.barboza | Facebook: Pedro Barboza
