@@ -2,8 +2,7 @@
 
 <h3 align='center'>Fulllstack Web Developer :computer:</h3>
 
-- TODO: About my ocuppation...
-- TODO: What i'm doing now...
+- I'm currently improving my knowledge and working on projects for my personal portfolio with the intention of entering the job market.
 - pedro.barboza.dev@gmail.com
 - +55 (12) 9 99654-8767
 
