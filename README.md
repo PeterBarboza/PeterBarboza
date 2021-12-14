@@ -6,7 +6,7 @@
 - pedro.barboza.dev@gmail.com
 - +55 (12) 9 99654-8767
 
-   ### Follow me 
+<h4>Follow me</h4>
    <div style="display: flex; gap: 10px;">
      <a href="https://www.linkedin.com/in/pedro-barboza-9b7732222/" target="_blank">
          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,19 +15,19 @@
 
    
         
-   ### Knowledges
-        - Javascript
-        - Typescript
-        - Node.js
-        - MongoDB
-        - WebSocket
-        - React.js
-        - Axios
-        - HTML5
-        - CSS
-        - npm/yarn
-        - Git/Github
-        - Insomnia
+<h4>Knowledges</h4>
+- Javascript
+- Typescript
+- Node.js
+- MongoDB
+- WebSocket
+- React.js
+- Axios
+- HTML5
+- CSS
+- npm/yarn
+- Git/Github
+- Insomnia
    <!-- div style="display: flex; gap: 10px;">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
