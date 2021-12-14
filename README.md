@@ -13,8 +13,22 @@
      <a/>
    <div/>
 
+   
+        
    ### Knowledges
-   <div style="display: flex; gap: 10px;">
+        - Javascript
+        - Typescript
+        - Node.js
+        - MongoDB
+        - WebSocket
+        - React.js
+        - Axios
+        - HTML5
+        - CSS
+        - npm/yarn
+        - Git/Github
+        - Insomnia
+   <!-- div style="display: flex; gap: 10px;">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -26,7 +40,7 @@
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
-   <div/>           
+   <div/ -->           
                
        
 <p>&nbsp;</p>
