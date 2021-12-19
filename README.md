@@ -20,6 +20,7 @@
   <li>Javascript</li>
   <li>Typescript</li>
   <li>Node.js</li>
+  <li>Express.js</li>
   <li>MongoDB</li>
   <li>WebSocket</li>
   <li>React.js</li>
