@@ -15,7 +15,7 @@
 
    
         
-<h3>Knowledges</h3>
+<h3>Technologies</h3>
 <ul>
   <li>Javascript</li>
   <li>Typescript</li>
