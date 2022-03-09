@@ -4,7 +4,7 @@
 
 - I'm currently improving my knowledge and working on projects for my personal portfolio with the intention of entering the job market.
 - pedro.barboza.dev@gmail.com
-- +55 (12) 9 99654-8767
+- +55 (12) 9 9654-8767
 
 <h4>Follow me</h4>
    <div style="display: flex; gap: 10px;">
