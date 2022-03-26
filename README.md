@@ -48,6 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBarboza&layout=compact&theme=midnight-purple" alt="Brayan Quirino most used languages" />
 </p>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
   
 <h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
