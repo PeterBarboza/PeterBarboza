@@ -35,7 +35,7 @@
 ### Estástisticas Pessoais :bar_chart:
 
 <p align='left'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PeterBarboza&show_icons=true" alt="Pedro Barboza"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbarboza&layout=compact&theme=midnight-purple" alt="Pedro Barboza"/>
 </p>
 
 <p align="left"> 
