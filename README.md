@@ -46,7 +46,3 @@
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=peterbarboza&show_icons=true" alt="Pedro Barboza most used languages" />
 </p>
-  
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-  
-<h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
