@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Serverless-black?style=for-the-badge&logo=serverless&logoColor=FD5750"/>
   <img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
