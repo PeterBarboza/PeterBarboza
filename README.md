@@ -6,7 +6,6 @@
 - Telefone: +55 12 99781-4701
 - Linkedin: [@Pedro Barboza](https://www.linkedin.com/in/pedro-barboza-webdev/)
 - Site: [www.pedrobarboza.com](https://www.pedrobarboza.com/)
-- Site: <a href="https://www.pedrobarboza.com/" rel="follow">www.pedrobarboza.com</a>
 ### Principais Conhecimentos
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
