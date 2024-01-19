@@ -3,12 +3,12 @@
 
 ### Contatos
 - Email: pedro.barboza.dev@gmail.com
-- Telefone: +55 12 9 96548767
+- Telefone: +55 12 99781-4701
 - Linkedin: [@Pedro Barboza](https://www.linkedin.com/in/pedro-barboza-webdev/)
-  
+- Site: [www.pedrobarboza.com](https://www.pedrobarboza.com/)
 ### Principais Conhecimentos
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -41,8 +41,4 @@
 
 <p align='left'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbarboza&layout=compact&theme=midnight-purple" alt="Pedro Barboza"/>
-</p>
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=peterbarboza&show_icons=true" alt="Pedro Barboza most used languages" />
 </p>
