@@ -65,6 +65,4 @@
         - Python (Basic)
 
 <p>&nbsp;</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterbarboza&show_icons=true" alt="PeterBarboza"/>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbarboza&layout=compact&theme=midnight-purple" alt="Pedro Barboza"/>
