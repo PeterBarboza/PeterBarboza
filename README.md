@@ -17,7 +17,7 @@
         - Input validation
         - Access level authentication
         - Logging
-        - ORM's (Prisma. Mongoose, TypeORM, Sequelize)
+        - ORM's (Prisma. Mongoose, TypeORM, Sequelize, Drizzle)
         - Socket
         - ...
     
