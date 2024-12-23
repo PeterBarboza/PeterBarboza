@@ -62,7 +62,7 @@
     - Programming Languages
         - TypeScript
         - JavaScript
-        - Python (Basic)
+        - Python
 
 <p>&nbsp;</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbarboza&layout=compact&theme=midnight-purple" alt="Pedro Barboza"/>
